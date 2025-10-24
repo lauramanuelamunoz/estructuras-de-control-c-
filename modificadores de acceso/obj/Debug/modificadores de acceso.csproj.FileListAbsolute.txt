@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\3147910\modificadores de acceso\bin\Debug\modificadores de acceso.exe.config
+C:\Users\User\source\repos\3147910\modificadores de acceso\bin\Debug\modificadores de acceso.exe
+C:\Users\User\source\repos\3147910\modificadores de acceso\bin\Debug\modificadores de acceso.pdb
+C:\Users\User\source\repos\3147910\modificadores de acceso\obj\Debug\modificadores de acceso.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\3147910\modificadores de acceso\obj\Debug\modificadores de acceso.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\3147910\modificadores de acceso\obj\Debug\modificadores de acceso.exe
+C:\Users\User\source\repos\3147910\modificadores de acceso\obj\Debug\modificadores de acceso.pdb
