@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\CrudNativo\CrudNativo\obj\Debug\net8.0\CrudNativo.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\CrudNativo\CrudNativo\obj\Debug\net8.0\CrudNativo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\CrudNativo\CrudNativo\obj\Debug\net8.0\CrudNativo.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\CrudNativo\CrudNativo\obj\Debug\net8.0\CrudNativo.AssemblyInfo.cs
+C:\Users\User\source\repos\CrudNativo\CrudNativo\obj\Debug\net8.0\CrudNativo.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\CrudNativo\CrudNativo\obj\Debug\net8.0\CrudNativo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\source\repos\CrudNativo\CrudNativo\obj\Debug\net8.0\CrudNativo.RazorAssemblyInfo.cache
+C:\Users\User\source\repos\CrudNativo\CrudNativo\obj\Debug\net8.0\CrudNativo.RazorAssemblyInfo.cs
